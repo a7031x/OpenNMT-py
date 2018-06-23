@@ -11,7 +11,26 @@
             "program": "${file}"
         },
         {
-            "name": "Python: translate",
+            "name": "Python: process data",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/process_data.py"
+        },
+        {
+            "name": "Python: process vocab",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/preprocess.py",
+            "args": [
+                "-train_src", "data/src-train.txt",
+                "-train_tgt", "data/tgt-train.txt",
+                "-valid_src", "data/src-val.txt",
+                "-valid_tgt", "data/tgt-val.txt",
+                "-save_data", "data/demo"
+            ]
+        },
+        {
+            "name": "Python: translate_de_en",
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/translate.py",
@@ -36,7 +55,7 @@
             ]
         },
         {
-            "name": "Python: translate",
+            "name": "Python: translate_demo",
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/translate.py",
