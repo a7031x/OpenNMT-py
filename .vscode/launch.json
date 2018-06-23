@@ -60,7 +60,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/translate.py",
             "args": [
-                "-model", "demo-model_acc_16.26_ppl_893.33_e13.pt",
+                "-model", "demo-model_acc_58.36_ppl_16.63_e18.pt",
                 "-src", "data/src-test.txt",
                 "-output", "pred.txt",
                 "-replace_unk", "-verbose"
