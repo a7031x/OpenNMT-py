@@ -1,0 +1,178 @@
+[2018-06-23 03:53:58,812 INFO] Train perplexity: 4.1678
+[2018-06-23 03:53:58,813 INFO] Train accuracy: 71.3145
+[2018-06-23 03:53:58,820 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:53:59,911 INFO] Validation perplexity: 16.621
+[2018-06-23 03:53:59,911 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:53:59,912 INFO] Decaying learning rate to 1.13687e-13
+[2018-06-23 03:53:59,987 INFO]
+[2018-06-23 03:54:00,139 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:54:08,045 INFO] Epoch 51,    50/  216; acc:  69.28; ppl:   4.75; xent:   1.56;  11056 src tok/s; 4047 tgt tok/s;      8 s elapsed
+[2018-06-23 03:54:16,649 INFO] Epoch 51,   100/  216; acc:  70.35; ppl:   4.47; xent:   1.50;  11038 src tok/s; 3801 tgt tok/s;     17 s elapsed
+[2018-06-23 03:54:25,193 INFO] Epoch 51,   150/  216; acc:  71.82; ppl:   4.09; xent:   1.41;  10766 src tok/s; 3765 tgt tok/s;     25 s elapsed
+[2018-06-23 03:54:32,885 INFO] Epoch 51,   200/  216; acc:  73.43; ppl:   3.70; xent:   1.31;  11137 src tok/s; 4233 tgt tok/s;     33 s elapsed
+[2018-06-23 03:54:35,692 INFO] Train perplexity: 4.16221
+[2018-06-23 03:54:35,693 INFO] Train accuracy: 71.4775
+[2018-06-23 03:54:35,700 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:54:36,754 INFO] Validation perplexity: 16.621
+[2018-06-23 03:54:36,754 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:54:36,755 INFO] Decaying learning rate to 5.68434e-14
+[2018-06-23 03:54:36,839 INFO]
+[2018-06-23 03:54:36,990 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:54:44,998 INFO] Epoch 52,    50/  216; acc:  69.09; ppl:   4.75; xent:   1.56;  9674 src tok/s; 3996 tgt tok/s;      8 s elapsed
+[2018-06-23 03:54:53,168 INFO] Epoch 52,   100/  216; acc:  70.25; ppl:   4.47; xent:   1.50;  11038 src tok/s; 4003 tgt tok/s;     16 s elapsed
+[2018-06-23 03:55:01,571 INFO] Epoch 52,   150/  216; acc:  71.66; ppl:   4.09; xent:   1.41;  10766 src tok/s; 3829 tgt tok/s;     25 s elapsed
+[2018-06-23 03:55:09,290 INFO] Epoch 52,   200/  216; acc:  73.27; ppl:   3.71; xent:   1.31;  11137 src tok/s; 4217 tgt tok/s;     32 s elapsed
+[2018-06-23 03:55:12,234 INFO] Train perplexity: 4.16097
+[2018-06-23 03:55:12,235 INFO] Train accuracy: 71.3447
+[2018-06-23 03:55:12,242 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:55:13,343 INFO] Validation perplexity: 16.621
+[2018-06-23 03:55:13,344 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:55:13,344 INFO] Decaying learning rate to 2.84217e-14
+[2018-06-23 03:55:13,427 INFO]
+[2018-06-23 03:55:13,575 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:55:21,463 INFO] Epoch 53,    50/  216; acc:  69.47; ppl:   4.73; xent:   1.55;  11056 src tok/s; 4056 tgt tok/s;      8 s elapsed
+[2018-06-23 03:55:30,296 INFO] Epoch 53,   100/  216; acc:  70.44; ppl:   4.47; xent:   1.50;  11038 src tok/s; 3702 tgt tok/s;     17 s elapsed
+[2018-06-23 03:55:38,742 INFO] Epoch 53,   150/  216; acc:  71.83; ppl:   4.10; xent:   1.41;  10766 src tok/s; 3810 tgt tok/s;     25 s elapsed
+[2018-06-23 03:55:46,515 INFO] Epoch 53,   200/  216; acc:  73.35; ppl:   3.71; xent:   1.31;  11137 src tok/s; 4189 tgt tok/s;     33 s elapsed
+[2018-06-23 03:55:49,478 INFO] Train perplexity: 4.16004
+[2018-06-23 03:55:49,478 INFO] Train accuracy: 71.555
+[2018-06-23 03:55:49,486 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:55:50,570 INFO] Validation perplexity: 16.621
+[2018-06-23 03:55:50,570 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:55:50,570 INFO] Decaying learning rate to 1.42109e-14
+[2018-06-23 03:55:50,648 INFO]
+[2018-06-23 03:55:50,796 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:55:59,193 INFO] Epoch 54,    50/  216; acc:  69.36; ppl:   4.74; xent:   1.56;  9674 src tok/s; 3810 tgt tok/s;      8 s elapsed
+[2018-06-23 03:56:07,522 INFO] Epoch 54,   100/  216; acc:  70.33; ppl:   4.46; xent:   1.50;  11038 src tok/s; 3927 tgt tok/s;     17 s elapsed
+[2018-06-23 03:56:16,455 INFO] Epoch 54,   150/  216; acc:  71.79; ppl:   4.11; xent:   1.41;  10766 src tok/s; 3601 tgt tok/s;     26 s elapsed
+[2018-06-23 03:56:24,533 INFO] Epoch 54,   200/  216; acc:  73.48; ppl:   3.67; xent:   1.30;  9745 src tok/s; 4030 tgt tok/s;     34 s elapsed
+[2018-06-23 03:56:27,469 INFO] Train perplexity: 4.15638
+[2018-06-23 03:56:27,469 INFO] Train accuracy: 71.4753
+[2018-06-23 03:56:27,477 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:56:28,531 INFO] Validation perplexity: 16.621
+[2018-06-23 03:56:28,532 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:56:28,532 INFO] Decaying learning rate to 7.10543e-15
+[2018-06-23 03:56:28,608 INFO]
+[2018-06-23 03:56:28,755 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:56:37,249 INFO] Epoch 55,    50/  216; acc:  69.09; ppl:   4.76; xent:   1.56;  9674 src tok/s; 3767 tgt tok/s;      8 s elapsed
+[2018-06-23 03:56:45,965 INFO] Epoch 55,   100/  216; acc:  70.33; ppl:   4.47; xent:   1.50;  11038 src tok/s; 3752 tgt tok/s;     17 s elapsed
+[2018-06-23 03:56:54,191 INFO] Epoch 55,   150/  216; acc:  71.73; ppl:   4.08; xent:   1.41;  10766 src tok/s; 3912 tgt tok/s;     25 s elapsed
+[2018-06-23 03:57:02,244 INFO] Epoch 55,   200/  216; acc:  73.37; ppl:   3.69; xent:   1.31;  9745 src tok/s; 4042 tgt tok/s;     33 s elapsed
+[2018-06-23 03:57:04,932 INFO] Train perplexity: 4.16141
+[2018-06-23 03:57:04,932 INFO] Train accuracy: 71.3755
+[2018-06-23 03:57:04,940 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:57:06,095 INFO] Validation perplexity: 16.621
+[2018-06-23 03:57:06,096 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:57:06,096 INFO] Decaying learning rate to 3.55271e-15
+[2018-06-23 03:57:06,170 INFO]
+[2018-06-23 03:57:06,320 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:57:14,263 INFO] Epoch 56,    50/  216; acc:  69.19; ppl:   4.77; xent:   1.56;  11056 src tok/s; 4029 tgt tok/s;      8 s elapsed
+[2018-06-23 03:57:22,656 INFO] Epoch 56,   100/  216; acc:  70.32; ppl:   4.46; xent:   1.49;  11038 src tok/s; 3896 tgt tok/s;     16 s elapsed
+[2018-06-23 03:57:31,083 INFO] Epoch 56,   150/  216; acc:  71.79; ppl:   4.08; xent:   1.41;  10766 src tok/s; 3818 tgt tok/s;     25 s elapsed
+[2018-06-23 03:57:39,499 INFO] Epoch 56,   200/  216; acc:  73.37; ppl:   3.69; xent:   1.31;  9745 src tok/s; 3868 tgt tok/s;     33 s elapsed
+[2018-06-23 03:57:42,228 INFO] Train perplexity: 4.16055
+[2018-06-23 03:57:42,228 INFO] Train accuracy: 71.4093
+[2018-06-23 03:57:42,236 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:57:43,291 INFO] Validation perplexity: 16.621
+[2018-06-23 03:57:43,292 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:57:43,292 INFO] Decaying learning rate to 1.77636e-15
+[2018-06-23 03:57:43,370 INFO]
+[2018-06-23 03:57:43,495 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:57:51,488 INFO] Epoch 57,    50/  216; acc:  69.25; ppl:   4.77; xent:   1.56;  11056 src tok/s; 4003 tgt tok/s;      8 s elapsed
+[2018-06-23 03:57:59,903 INFO] Epoch 57,   100/  216; acc:  70.28; ppl:   4.44; xent:   1.49;  11038 src tok/s; 3886 tgt tok/s;     16 s elapsed
+[2018-06-23 03:58:08,757 INFO] Epoch 57,   150/  216; acc:  71.74; ppl:   4.09; xent:   1.41;  10766 src tok/s; 3636 tgt tok/s;     25 s elapsed
+[2018-06-23 03:58:16,784 INFO] Epoch 57,   200/  216; acc:  73.26; ppl:   3.72; xent:   1.31;  9745 src tok/s; 4056 tgt tok/s;     33 s elapsed
+[2018-06-23 03:58:19,682 INFO] Train perplexity: 4.16494
+[2018-06-23 03:58:19,683 INFO] Train accuracy: 71.4086
+[2018-06-23 03:58:19,693 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:58:20,898 INFO] Validation perplexity: 16.621
+[2018-06-23 03:58:21,039 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:58:21,039 INFO] Decaying learning rate to 8.88178e-16
+[2018-06-23 03:58:21,142 INFO]
+[2018-06-23 03:58:21,303 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:58:29,618 INFO] Epoch 58,    50/  216; acc:  69.22; ppl:   4.76; xent:   1.56;  9674 src tok/s; 3848 tgt tok/s;      8 s elapsed
+[2018-06-23 03:58:37,847 INFO] Epoch 58,   100/  216; acc:  70.38; ppl:   4.46; xent:   1.50;  11038 src tok/s; 3974 tgt tok/s;     17 s elapsed
+[2018-06-23 03:58:46,998 INFO] Epoch 58,   150/  216; acc:  71.85; ppl:   4.08; xent:   1.41;  9570 src tok/s; 3519 tgt tok/s;     26 s elapsed
+[2018-06-23 03:58:55,198 INFO] Epoch 58,   200/  216; acc:  73.38; ppl:   3.70; xent:   1.31;  9745 src tok/s; 3971 tgt tok/s;     34 s elapsed
+[2018-06-23 03:58:58,105 INFO] Train perplexity: 4.16084
+[2018-06-23 03:58:58,120 INFO] Train accuracy: 71.4574
+[2018-06-23 03:58:58,129 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:58:59,330 INFO] Validation perplexity: 16.621
+[2018-06-23 03:58:59,330 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:58:59,331 INFO] Decaying learning rate to 4.44089e-16
+[2018-06-23 03:58:59,416 INFO]
+[2018-06-23 03:58:59,592 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:59:07,891 INFO] Epoch 59,    50/  216; acc:  69.32; ppl:   4.74; xent:   1.56;  9674 src tok/s; 3856 tgt tok/s;      8 s elapsed
+[2018-06-23 03:59:16,780 INFO] Epoch 59,   100/  216; acc:  70.50; ppl:   4.47; xent:   1.50;  11038 src tok/s; 3687 tgt tok/s;     17 s elapsed
+[2018-06-23 03:59:25,498 INFO] Epoch 59,   150/  216; acc:  71.84; ppl:   4.08; xent:   1.41;  10766 src tok/s; 3690 tgt tok/s;     26 s elapsed
+[2018-06-23 03:59:33,694 INFO] Epoch 59,   200/  216; acc:  73.25; ppl:   3.70; xent:   1.31;  9745 src tok/s; 3972 tgt tok/s;     34 s elapsed
+[2018-06-23 03:59:36,546 INFO] Train perplexity: 4.15853
+[2018-06-23 03:59:36,546 INFO] Train accuracy: 71.4926
+[2018-06-23 03:59:36,555 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 03:59:37,650 INFO] Validation perplexity: 16.621
+[2018-06-23 03:59:37,651 INFO] Validation accuracy: 58.3502
+[2018-06-23 03:59:37,651 INFO] Decaying learning rate to 2.22045e-16
+[2018-06-23 03:59:37,739 INFO]
+[2018-06-23 03:59:37,902 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 03:59:46,500 INFO] Epoch 60,    50/  216; acc:  69.21; ppl:   4.78; xent:   1.56;  9674 src tok/s; 3721 tgt tok/s;      9 s elapsed
+[2018-06-23 03:59:55,130 INFO] Epoch 60,   100/  216; acc:  70.31; ppl:   4.48; xent:   1.50;  11038 src tok/s; 3790 tgt tok/s;     17 s elapsed
+[2018-06-23 04:00:03,845 INFO] Epoch 60,   150/  216; acc:  71.73; ppl:   4.11; xent:   1.41;  10766 src tok/s; 3723 tgt tok/s;     26 s elapsed
+[2018-06-23 04:00:11,934 INFO] Epoch 60,   200/  216; acc:  73.38; ppl:   3.71; xent:   1.31;  9745 src tok/s; 4025 tgt tok/s;     34 s elapsed
+[2018-06-23 04:00:14,611 INFO] Train perplexity: 4.17482
+[2018-06-23 04:00:14,611 INFO] Train accuracy: 71.4466
+[2018-06-23 04:00:14,623 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 04:00:15,682 INFO] Validation perplexity: 16.621
+[2018-06-23 04:00:15,685 INFO] Validation accuracy: 58.3502
+[2018-06-23 04:00:15,685 INFO] Decaying learning rate to 1.11022e-16
+[2018-06-23 04:00:15,770 INFO]
+[2018-06-23 04:00:15,896 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 04:00:23,531 INFO] Epoch 61,    50/  216; acc:  69.15; ppl:   4.75; xent:   1.56;  11056 src tok/s; 4191 tgt tok/s;      8 s elapsed
+[2018-06-23 04:00:32,004 INFO] Epoch 61,   100/  216; acc:  70.39; ppl:   4.44; xent:   1.49;  11038 src tok/s; 3862 tgt tok/s;     16 s elapsed
+[2018-06-23 04:00:41,100 INFO] Epoch 61,   150/  216; acc:  71.91; ppl:   4.07; xent:   1.40;  9570 src tok/s; 3537 tgt tok/s;     25 s elapsed
+[2018-06-23 04:00:48,722 INFO] Epoch 61,   200/  216; acc:  73.59; ppl:   3.69; xent:   1.31;  11137 src tok/s; 4272 tgt tok/s;     33 s elapsed
+[2018-06-23 04:00:51,593 INFO] Train perplexity: 4.15032
+[2018-06-23 04:00:51,593 INFO] Train accuracy: 71.4804
+[2018-06-23 04:00:51,601 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 04:00:52,655 INFO] Validation perplexity: 16.621
+[2018-06-23 04:00:52,656 INFO] Validation accuracy: 58.3502
+[2018-06-23 04:00:52,656 INFO] Decaying learning rate to 5.55112e-17
+[2018-06-23 04:00:52,733 INFO]
+[2018-06-23 04:00:52,878 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 04:01:01,549 INFO] Epoch 62,    50/  216; acc:  69.26; ppl:   4.75; xent:   1.56;  9674 src tok/s; 3690 tgt tok/s;      9 s elapsed
+[2018-06-23 04:01:10,070 INFO] Epoch 62,   100/  216; acc:  70.36; ppl:   4.45; xent:   1.49;  11038 src tok/s; 3838 tgt tok/s;     17 s elapsed
+[2018-06-23 04:01:18,977 INFO] Epoch 62,   150/  216; acc:  71.72; ppl:   4.09; xent:   1.41;  10766 src tok/s; 3612 tgt tok/s;     26 s elapsed
+[2018-06-23 04:01:26,654 INFO] Epoch 62,   200/  216; acc:  73.26; ppl:   3.69; xent:   1.31;  11137 src tok/s; 4240 tgt tok/s;     34 s elapsed
+[2018-06-23 04:01:29,525 INFO] Train perplexity: 4.15615
+[2018-06-23 04:01:29,525 INFO] Train accuracy: 71.4222
+[2018-06-23 04:01:29,532 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 04:01:30,808 INFO] Validation perplexity: 16.621
+[2018-06-23 04:01:30,808 INFO] Validation accuracy: 58.3502
+[2018-06-23 04:01:30,808 INFO] Decaying learning rate to 2.77556e-17
+[2018-06-23 04:01:30,912 INFO]
+[2018-06-23 04:01:31,100 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 04:01:39,248 INFO] Epoch 63,    50/  216; acc:  69.24; ppl:   4.78; xent:   1.56;  9674 src tok/s; 3929 tgt tok/s;      8 s elapsed
+[2018-06-23 04:01:48,097 INFO] Epoch 63,   100/  216; acc:  70.30; ppl:   4.46; xent:   1.50;  11038 src tok/s; 3695 tgt tok/s;     17 s elapsed
+[2018-06-23 04:01:56,930 INFO] Epoch 63,   150/  216; acc:  71.65; ppl:   4.06; xent:   1.40;  10766 src tok/s; 3643 tgt tok/s;     26 s elapsed
+[2018-06-23 04:02:05,124 INFO] Epoch 63,   200/  216; acc:  73.46; ppl:   3.69; xent:   1.30;  9745 src tok/s; 3973 tgt tok/s;     34 s elapsed
+[2018-06-23 04:02:08,108 INFO] Train perplexity: 4.15256
+[2018-06-23 04:02:08,111 INFO] Train accuracy: 71.443
+[2018-06-23 04:02:08,121 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 04:02:09,331 INFO] Validation perplexity: 16.621
+[2018-06-23 04:02:09,338 INFO] Validation accuracy: 58.3502
+[2018-06-23 04:02:09,338 INFO] Decaying learning rate to 1.38778e-17
+[2018-06-23 04:02:09,427 INFO]
+[2018-06-23 04:02:09,575 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 04:02:17,806 INFO] Epoch 64,    50/  216; acc:  69.17; ppl:   4.75; xent:   1.56;  9674 src tok/s; 3888 tgt tok/s;      8 s elapsed
+[2018-06-23 04:02:26,421 INFO] Epoch 64,   100/  216; acc:  70.23; ppl:   4.48; xent:   1.50;  11038 src tok/s; 3796 tgt tok/s;     17 s elapsed
+[2018-06-23 04:02:34,938 INFO] Epoch 64,   150/  216; acc:  71.84; ppl:   4.10; xent:   1.41;  10766 src tok/s; 3778 tgt tok/s;     25 s elapsed
+[2018-06-23 04:02:43,004 INFO] Epoch 64,   200/  216; acc:  73.52; ppl:   3.72; xent:   1.31;  9745 src tok/s; 4036 tgt tok/s;     33 s elapsed
+[2018-06-23 04:02:45,951 INFO] Train perplexity: 4.17155
+[2018-06-23 04:02:45,951 INFO] Train accuracy: 71.438
+[2018-06-23 04:02:45,959 INFO] Loading valid dataset from data\demo.valid.1.pt, number of examples: 772
+[2018-06-23 04:02:47,057 INFO] Validation perplexity: 16.621
+[2018-06-23 04:02:47,057 INFO] Validation accuracy: 58.3502
+[2018-06-23 04:02:47,058 INFO] Decaying learning rate to 6.93889e-18
+[2018-06-23 04:02:47,147 INFO]
+[2018-06-23 04:02:47,273 INFO] Loading train dataset from data\demo.train.1.pt, number of examples: 13798
+[2018-06-23 04:02:55,661 INFO] Epoch 65,    50/  216; acc:  69.10; ppl:   4.78; xent:   1.57;  9674 src tok/s; 3815 tgt tok/s;      8 s elapsed
+[2018-06-23 04:03:04,399 INFO] Epoch 65,   100/  216; acc:  70.36; ppl:   4.47; xent:   1.50;  11038 src tok/s; 3742 tgt tok/s;     17 s elapsed

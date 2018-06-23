@@ -51,7 +51,13 @@
                 "-data", "data/demo",
                 "-save_model", "demo-model",
                 "-gpuid", "0",
-                "-epochs", "1000"
+                "-epochs", "1000",
+              //  "-train_from", "demo-model_acc_58.36_ppl_16.63_e18.pt",
+                "-encoder_type", "transformer",
+                "-decoder_type", "transformer",
+                "-rnn_size", "512",
+                "-src_word_vec_size", "512",
+                "-tgt_word_vec_size", "512"
             ]
         },
         {
