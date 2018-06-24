@@ -57,7 +57,9 @@
                 "-decoder_type", "transformer",
                 "-rnn_size", "512",
                 "-src_word_vec_size", "512",
-                "-tgt_word_vec_size", "512"
+                "-tgt_word_vec_size", "512",
+                "-optim", "adam",
+                "-learning_rate", "0.001"
             ]
         },
         {
@@ -66,7 +68,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/translate.py",
             "args": [
-                "-model", "demo-model_acc_58.36_ppl_16.63_e18.pt",
+                "-model", "demo-model_acc_9.75_ppl_542.35_e1000.pt",
                 "-src", "data/src-test.txt",
                 "-output", "pred.txt",
                 "-replace_unk", "-verbose"
